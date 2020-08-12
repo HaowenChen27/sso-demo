@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "server.port.spring.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for server.port.spring.datasource.url."
+    },
+    {
+      "name": "mybatis-plus.global-config.db-config.column-underline",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.global-config.db-config.column-underline."
+    }
+  ] }
